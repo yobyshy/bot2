@@ -68,4 +68,4 @@ if (command === "mixed") {
 });
 
 
-client.login('MzU0MzMwODQxNjg3NTIzMzM5.DLZ8qA.Z3sQjuSm6c9Xl6zUphBN1WuoMOo');
+client.login(process.env.BOT_TOKEN);
